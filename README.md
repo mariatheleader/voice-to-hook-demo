@@ -1,4 +1,3 @@
-# voice-to-hook-demo
 # Real Time™ Voice-to-Hook Bot (Demo Access)
 
 🎤 Speak.  
