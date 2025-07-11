@@ -1,4 +1,4 @@
-# Real Time™ Voice-to-Hook Bot (Demo Access)
+# Real Time™ Voice-to-Hook Telegram Bot (Demo Access)
 
 🎤 Speak.  
 ⚡ Instantly get a juicy hook.  
